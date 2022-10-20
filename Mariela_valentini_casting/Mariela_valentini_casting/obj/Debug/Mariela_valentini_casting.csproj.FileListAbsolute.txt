@@ -1,0 +1,11 @@
+C:\Users\Marie\Desktop\Accenture\Mariela_valentini_casting\Mariela_valentini_casting\bin\Debug\Mariela_valentini_casting.exe.config
+C:\Users\Marie\Desktop\Accenture\Mariela_valentini_casting\Mariela_valentini_casting\bin\Debug\Mariela_valentini_casting.exe
+C:\Users\Marie\Desktop\Accenture\Mariela_valentini_casting\Mariela_valentini_casting\bin\Debug\Mariela_valentini_casting.pdb
+C:\Users\Marie\Desktop\Accenture\Mariela_valentini_casting\Mariela_valentini_casting\obj\Debug\Mariela_valentini_casting.csproj.AssemblyReference.cache
+C:\Users\Marie\Desktop\Accenture\Mariela_valentini_casting\Mariela_valentini_casting\obj\Debug\Mariela_valentini_casting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marie\Desktop\Accenture\Mariela_valentini_casting\Mariela_valentini_casting\obj\Debug\Mariela_valentini_casting.Form1.resources
+C:\Users\Marie\Desktop\Accenture\Mariela_valentini_casting\Mariela_valentini_casting\obj\Debug\Mariela_valentini_casting.Properties.Resources.resources
+C:\Users\Marie\Desktop\Accenture\Mariela_valentini_casting\Mariela_valentini_casting\obj\Debug\Mariela_valentini_casting.csproj.GenerateResource.cache
+C:\Users\Marie\Desktop\Accenture\Mariela_valentini_casting\Mariela_valentini_casting\obj\Debug\Mariela_valentini_casting.csproj.CoreCompileInputs.cache
+C:\Users\Marie\Desktop\Accenture\Mariela_valentini_casting\Mariela_valentini_casting\obj\Debug\Mariela_valentini_casting.exe
+C:\Users\Marie\Desktop\Accenture\Mariela_valentini_casting\Mariela_valentini_casting\obj\Debug\Mariela_valentini_casting.pdb
